@@ -1,5 +1,3 @@
----
-
  Por que devemos modularizar?
 À medida que um projeto cresce, o código tende a se tornar mais complexo. Isso pode gerar diversos problemas, como:
 
