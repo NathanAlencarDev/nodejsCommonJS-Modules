@@ -94,6 +94,7 @@ export const elem = {
 | Análise Estática       | 🚫 Não                       | ✅ Sim                         |
 | Uso recomendado        | Back-end / Legado            | Front-end / Projetos modernos |
 
+---
 
 ✅ Conclusão
 A modularização melhora drasticamente a qualidade do código. Escolher entre CommonJS e ESM depende do ambiente e das necessidades do projeto:
